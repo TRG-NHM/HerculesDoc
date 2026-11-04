@@ -2,7 +2,7 @@ alabaster~=1.0.0
 attrs~=24.2.0
 babel~=2.16.0
 cattrs~=23.2.3
-certifi~=2024.7.4
+certifi~>2026.10.18
 charset-normalizer~=3.3.2
 docutils~=0.21.2
 esbonio~=0.16.4
